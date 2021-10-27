@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "email": "rodrigo123@gmail.com",
+      "password": "$2a$10$t5VF4UQ2694zouIluiT7tuc8.5YWY49G8x1dURFLPc1zTb/PbAVci",
+      "age": 21,
+      "name": "Rodrigo",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Moto G7 Plus",
+      "price": 900,
+      "description": "Memória RAM : 4Gb | Armazenamento: 64Gb | Câmera trazeira: 18Mp | Câmera frontal: 32Mp | Tela de Led | 6.5 Polegadas",
+      "id": 1
+    },
+    {
+      "name": "Sansung Galaxy S10",
+      "price": 1990,
+      "description": "Memória RAM : 4Gb | Armazenamento: 64Gb | Câmera trazeira: 18Mp | Câmera frontal: 32Mp | Tela de Led | 6.5 Polegadas",
+      "id": 2
+    },
+    {
+      "name": "Sansung Galaxy S20",
+      "price": 2830,
+      "description": "Memória RAM : 4Gb | Armazenamento: 64Gb | Câmera trazeira: 18Mp | Câmera frontal: 32Mp | Tela de Led | 6.5 Polegadas",
+      "id": 3
+    },
+    {
+      "name": "Sansung Galaxy Note",
+      "price": 2300,
+      "description": "Memória RAM : 4Gb | Armazenamento: 64Gb | Câmera trazeira: 18Mp | Câmera frontal: 32Mp | Tela de Led | 6.5 Polegadas",
+      "id": 4
+    },
+    {
+      "name": "Roge Phone 3",
+      "price": 4200,
+      "description": "Memória RAM : 4Gb | Armazenamento: 64Gb | Câmera trazeira: 18Mp | Câmera frontal: 32Mp | Tela de Led | 6.5 Polegadas",
+      "id": 5
+    },
+    {
+      "name": "Xiaomi MI 9",
+      "price": 1790,
+      "description": "Memória RAM : 4Gb | Armazenamento: 64Gb | Câmera trazeira: 18Mp | Câmera frontal: 32Mp | Tela de Led | 6.5 Polegadas",
+      "id": 6
+    },
+    {
+      "name": "Sansung Pocket",
+      "price": 90,
+      "description": "Memória RAM : 400Mb | Armazenamento: 4Gb | Tela de Acrílico | 2.5 Polegadas",
+      "id": 7
+    },
+    {
+      "name": "Nokia Tijolão",
+      "price": 190,
+      "description": "INDESTRUTÍVEL",
+      "id": 8
+    }
+  ]
+}
